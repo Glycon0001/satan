@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "repl_python3_beta_Nuke-Bot-Tutorial"
+name = "repl_python3_beta_Satan_Nuke_Your_House"
 version = "0.1.0"
 description = ""
-authors = ["Your Name <you@example.com>"]
+authors = ["Glycon"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
